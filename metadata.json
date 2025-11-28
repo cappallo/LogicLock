@@ -1,0 +1,5 @@
+{
+  "name": "Logic Lock: Cyber Duel",
+  "description": "A cyberpunk-themed strategy game where two players (or Player vs AI) compete to manipulate a logic circuit. Place gates to force the final output to your target (0 or 1).",
+  "requestFramePermissions": []
+}
